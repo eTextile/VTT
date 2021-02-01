@@ -3,7 +3,7 @@
 
 ## About The project
 The VTT project is a therapeutic e-Textile device to entertain and comfort people living with dementia, stress and anxiety.
-It uses the multi-touch [eTextile-Synthetizer](https://synth.eTextile.org/) technologie with a suitable **audio transducer**, **audio amplifier** and **rechargeable battery pack** to explore a therapeutic application that aim to calm and comfort people living with disabilitys. 
+It uses the multi-touch [eTextile-Synthetizer](https://github.com/eTextile/synth/) technologie with a suitable **audio transducer**, **audio amplifier** and **rechargeable battery pack** to explore a therapeutic application that aim to calm and comfort people living with disabilitys. 
 
 ## Components benchmark
 We have been evaluating vibrotactile transducers to identify a solution with a good power consumption vs vibrotactile feedback efficiency. Thus to improve the vibrotactile feedback quality by using this type of device instead of traditional DC motors.
