@@ -11,9 +11,9 @@ Through this evaluation also have selected the most efficient resonator material
 
 ## Selected parts
 - [Audio Transducer](./docs/docs/Exciter_bodyshaker_20w_4ohm.jpg) : bodyshaker exciter 20W 4ohm
+- [Resonator material](./docs/docs/Nidaplast.jpg) : polypropylene honeycomb plate (Alveolar structure)
 - [Audio Amplifier](./docs/docs/25W_subwoofer-amp_mono.jpg) : 25W subwoofer amplifier
 - [Battery pack](./docs/docs/18650_lithium_ion_12V.jpg) : 12V lithium-ion (3x18650) charger included 
-- [Resonator material](./docs/docs/Nidaplast.jpg) : polypropylene honeycomb plate (Alveolar structure)
 
 ## The partnership
 This project is currently under development in colaboration with : 
