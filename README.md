@@ -10,8 +10,8 @@ We have been evaluating vibrotactile transducers to identify a solution with a g
 Through this evaluation have also selected the most efficient resonator material to amplify and transmit generated low frequencies.
 
 ## Selected parts
-- [Audio Transducer](./docs/docs/25W_subwoofer-amp_mono.jpg) : bodyshaker exciter 20W 4ohm
-- [Audio Amplifier](./docs/docs/Exciter_bodyshaker_20w_4ohm.jpg) : 25W subwoofer amplifier
+- [Audio Transducer](./docs/docs/Exciter_bodyshaker_20w_4ohm.jpg) : bodyshaker exciter 20W 4ohm
+- [Audio Amplifier](./docs/docs/25W_subwoofer-amp_mono.jpg) : 25W subwoofer amplifier
 - [Battery pack](./docs/docs/18650_lithium_ion_12V.jpg) : 12V lithium-ion (3x18650) charger included 
 - [resonator material](./docs/docs/Nidaplast.jpg) : polypropylene honeycomb plate (Alveolar structure)
 
