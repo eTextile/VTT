@@ -7,7 +7,7 @@ It uses the multi-touch [eTextile-Synthetizer](https://github.com/eTextile/synth
 
 ## Components benchmark
 We have been evaluating vibrotactile transducers to identify a solution with a good power consumption vs vibrotactile feedback efficiency. Thus to improve the vibrotactile feedback quality by using this type of device instead of traditional DC motors.
-Through this evaluation also have selected the most efficient resonator material to amplify and transmit generated low frequencies.
+Through this evaluation we also have selected the most efficient resonator material to amplify and transmit generated low frequencies.
 
 ## Selected parts
 - [Audio Transducer](./docs/docs/Exciter_bodyshaker_20w_4ohm.jpg) : bodyshaker exciter 20W 4ohm
