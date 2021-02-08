@@ -9,7 +9,8 @@ It uses the multi-touch [eTextile-Synthesizer](https://github.com/eTextile/synth
 We have been evaluating vibrotactile transducers to identify the best solution regarding power consumption and vibrotactile feedback efficiency. Thus to improve the vibrotactile feedback quality traditionally made with small DC motors. Through this evaluation we have also selected an efficient resonator material to amplify and transmit generated low frequencies. The battery pack have been chosen for a long autonomy and rechargeable property.
 
 ## Selected parts
-![eTextile-Synthesizer_VTT](./docs/docs/eTextile-Synthesizer_VTT)
+![eTextile-Synthesizer_VTT](./docs/docs/eTextile_synth_VTT_schematics.png)
+
 - [Audio Transducer](./docs/docs/Exciter_bodyshaker_20w_4ohm.jpg) : bodyshaker exciter 20W 4ohm
 - [Resonator material](./docs/docs/Nidaplast.jpg) : polypropylene honeycomb plate (Alveolar structure)
 - [Audio amplifier](./docs/docs/25W_subwoofer-amp_mono.jpg) : 25W subwoofer amplifier
