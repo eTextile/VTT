@@ -33,3 +33,10 @@ WARRANTIES, see LICENSE.txt included in this folder.
 
 ## Docs
 - [Video](TODO)
+
+## TODO
+- Planning a week workshop to combine all experiences and make a full prototype 
+- Improving [mapping fonctionalites](https://github.com/eTextile/Synth/blob/master/Firmware/main/mapping.h)
+- Designing the final product shape according to the technicals constraints and targeted users
+- Planning next PCB batch to reduce the production cost
+- Evaluating battery autonomy in the usage context
