@@ -19,8 +19,8 @@ We have been evaluating vibrotactile transducers to identify the best solution r
 
 ## The partnership
 This project is currently under development in colaboration with : 
-- [Bonnie Binary](www.bonniebinary.co.uk) Project owner and project manager
-- [Anna Blumenkranz](https://www.annablumenkranz.de/) Textile and UX designer
+- [Bonnie Binary](https://bonniebinary.co.uk/) Project owner and project manager
+- [Anna Blumenkranz](https://annablumenkranz.de/) Textile and UX designer
 - [Maurin Donneaud](https://etextile.org/) Product designer and Tech developer
 
 ## Copyright
