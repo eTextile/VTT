@@ -32,8 +32,8 @@ For information on usage and redistribution, and for a DISCLAIMER OF ALL
 WARRANTIES, see LICENSE.txt included in this folder.
 
 ## Docs
+- [Video - project presentation](https://youtu.be/sAjow2QTyj0)
 - [Video - transducer testing](https://flic.kr/p/2kExBcJ)
-- [Video - project presentation](TODO)
 
 ## TODO
 - Planning a week workshop to combine all experiences and make a full prototype 
